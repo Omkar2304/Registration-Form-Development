@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  margin-top: 70px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(../photo/Coding\ Wallpaper1.avif);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.f-1 {
+  height: 630px;
+  width: 1150px;
+  margin-left: 200px;
+  font-size: 18px;
+  font-weight: bolder;
+  color: cornsilk;
+}
+
+h1 {
+  font-size: 45px;
+  color: white;
+  box-shadow: 10px 20px 30px rgba(0, 0, 0, 0.5);
+}
